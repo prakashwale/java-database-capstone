@@ -1,4 +1,4 @@
-Admin User Stories
+##Admin User Stories
 Story 1: Admin Login
 Title:
 As an admin, I want to log into the portal with my username and password, so that I can manage the platform securely.
@@ -108,7 +108,7 @@ Notes:
 Settings should have validation rules
 Consider backup/restore functionality for settings
 
-Patient User Stories
+##Patient User Stories
 Story 1: View Doctors Without Login
 Title:
 As a patient, I want to view a list of doctors without logging in, so that I can explore options before registering.
@@ -220,7 +220,7 @@ Include appointment reminders functionality
 Provide easy access to doctor contact information
 
 
-Doctor User Stories
+##Doctor User Stories
 Story 1: Doctor Login
 Title:
 As a doctor, I want to log into the portal, so that I can manage my appointments and access patient information securely.
